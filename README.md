@@ -136,6 +136,9 @@ User Login → JWT Token Generated → Stored in LocalStorage
 
 
 ---
+# Architecture Diagram
+<img width="1440" height="1400" alt="image" src="https://github.com/user-attachments/assets/5c265bbb-91d0-495d-91b9-e53b9336bc3e" />
+
 
 ## 🧠 Concepts Used
 
